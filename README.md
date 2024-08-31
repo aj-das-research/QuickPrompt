@@ -113,7 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-For any queries or suggestions, please open an issue on GitHub or contact the maintainer at [your.email@example.com](mailto:aj.das.research@gmail.com).
+For any queries or suggestions, please open an issue on GitHub or contact the maintainer at [aj.das.research@gmail.com](mailto:aj.das.research@gmail.com).
 
 ---
 
