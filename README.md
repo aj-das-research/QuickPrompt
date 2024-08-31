@@ -56,7 +56,7 @@ export GROQ_API_KEY=your_groq_api_key
 quickprompt groq llama3-70b-8192 "Text" "JSON" "Sentiment Analysis" "JSON" "Classification" --additional_context max_tokens=100 temperature=0.7
 ```
 
-## 🌐 Supported Models
+## 🌐 Supported Models [More Models to be added (Anthropic, Azure OpenAI, OpenAI, Mixtral)]
 
 - OpenAI
 - Anthropic
